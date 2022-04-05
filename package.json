@@ -1,0 +1,23 @@
+{
+  "name": "ionicon-webfont",
+  "version": "5.5.2",
+  "description": "Ionicons web font",
+  "main": "demo.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quevlu/ionicon-webfont.git"
+  },
+  "keywords": [
+    "ionicons",
+    "ionic",
+    "web",
+    "font",
+    "icons"
+  ],
+  "author": "Ionic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quevlu/ionicon-webfont/issues"
+  },
+  "homepage": "https://github.com/quevlu/ionicon-webfont#readme"
+}
